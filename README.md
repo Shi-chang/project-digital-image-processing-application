@@ -264,10 +264,13 @@ To make sure that the program can process commands correctly, the command lines 
 # How to Run
 The user can run the program by following the following steps:
 
-1. Find the file called **"Image Process.jar"** in the **"res" folder** and double click it. You should be able to see a GUI called "Image Processor".
+1. Find the file called **"Image Processor.jar"** in the **"res" folder** and double click it. You should be able to see a GUI called "Image Processor".
 2. If you plan to use the text area, type in your commands and then click the **"Apply Script"** button to execute commands; if you want to use menu items or buttons, just load the image, apply operations through menu items or buttons and save the image.
 3. Close the program.
 
 # Citations
 
 [1] M. Jump. CS 5008. Class Lecture, Topic: "Module 7 - Image Model". Khoury College of Computer Sciences, Northeastern University, Boston, MA, Mar. 25, 2022.(where the code of ImageUtilities.java came from)
+
+![Animation](https://user-images.githubusercontent.com/76865032/187529762-5e61dbec-e8fe-4bb1-afdf-098fff17be61.gif)
+

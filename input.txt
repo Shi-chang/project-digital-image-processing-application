@@ -1,0 +1,49 @@
+load abc.png
+blur
+save abc-blurred-1.png
+blur
+save abc-blurred-2.png
+load abc.png
+sharpen
+save abc-sharpen-1.png
+sharpen
+save abc-sharpen-2.png
+load abc.png
+greyscale
+save abc-greyscale.png
+load abc.png
+sepia
+save abc-sepia.png
+load abc.png
+dither
+save abc-dither.png
+load abc.png
+mosaic 4000
+save abc-mosaic-4000.png
+load abc.png
+mosaic 8000
+save abc-mosaic-8000.png
+load abc.png
+mosaic 15000
+save abc-mosaic-15000.png
+load abc.png
+edgeDetection
+save abc-edgeDetection.png
+load abc.png
+greyscaleEnhancement
+save abc-greyscaleEnhancement.png
+load abc.png
+imageCropping 0 0 100 200
+save abc-cropped.png
+rainbowH 500 300
+save rainbowH.png
+rainbowV 300 500
+save rainbowV.png
+checkBoard 500 25 255 255 255 0 0 0
+save checkboard.png
+norway 500
+save norway.png
+greece 500
+save greece.png
+swizerland 500
+save swizerland.png

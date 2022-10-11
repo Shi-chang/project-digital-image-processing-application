@@ -1,7 +1,16 @@
-![Animation](https://user-images.githubusercontent.com/76865032/187529762-5e61dbec-e8fe-4bb1-afdf-098fff17be61.gif)
-
 # Overview
 This program allows users to open, apply certain operations on their images and save the altered images. Operations can be applied by clicking menu items or buttons or by typing in a batch of commands and then execute.
+
+# What I have learned
+1. Everybody comes from a different background, and sometimes a concept that is easy for some people may be difficult for some other people. So do not take it for granted that other people will find what you think easy to be easy. In this group work, I found the algorithms easy to understand and apply because of my knowledge in linear algebra, but some teammates found it hard to comprehend.
+2. Understanding common image processing algorithms (filtering, color transformation, dithering effect, etc.) and manipulation of color channels of each pixel of images with the algorithms.
+3. How to build a graphical user interface with Java Swing. 
+4. The concept of event-driven programming that is frequently used when building the containers, buttons and menus.
+5. The MVC design model that separates the model, view and controller.
+6. Mock testing that allows testing code in isolation.
+
+# Demo of the app
+![Animation](https://user-images.githubusercontent.com/76865032/187529762-5e61dbec-e8fe-4bb1-afdf-098fff17be61.gif)
 
 # How to Run
 The user can run the program by following the following steps:
@@ -270,6 +279,5 @@ This command line generates a national flag of Swizerland with width at 500 pixe
 # Limitations
 To make sure that the program can process commands correctly, the command lines in the given file should strictly follow certain rules prescribed here.
 
-# Citations
-
-[1] M. Jump. CS 5008. Class Lecture, Topic: "Module 7 - Image Model". Khoury College of Computer Sciences, Northeastern University, Boston, MA, Mar. 25, 2022.(where the code of ImageUtilities.java came from)
+# Acknowledgements
+I would like to thank my great teammates Manping Zhao and Eileen Chen for their hard work and the enjoyable cooperation we had on the project.
